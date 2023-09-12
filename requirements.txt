@@ -1,0 +1,13 @@
+numpy
+Flask
+ipykernel
+matplotlib
+seaborn
+gunicorn
+SciKit-learn
+pandas
+dill
+evidently
+imblearn
+PyYAML
+-e .
